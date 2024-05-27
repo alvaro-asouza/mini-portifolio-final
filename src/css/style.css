@@ -126,21 +126,23 @@ body {
 }
 
 .redes-sociais .curriculo {
-    background-color: #06c185;
+    background-color: #8d1987;
     border-radius: 10px;
-    border: 2px solid #b8bbc5;
+    border: 2px solid #91d820;
 }
 
 .redes-sociais .linkedin {
-    background-color: #1d87bd;
+    background-color: #8d1987;
     border-radius: 10px;
-    border: 2px solid #b8bbc5;
+    border: 2px solid #153cbd;
+    opacity: 0.8;
 }
 
 .redes-sociais .github {
-    background-color: #545454;
+    background-color: #8d1987;
     border-radius: 10px;
     border: 2px solid #b8bbc5;
+    opacity: 0.7;
 }
 
 .redes-sociais li a:hover {
@@ -172,27 +174,31 @@ body {
 }
 
 .projetos-pessoais .projeto-1 {
-    background-color: yellowgreen;
+    background-color: #d308c9;
     border-radius: 10px;
-    border: 2px solid #b8bbc5;
+    border: 2px solid #14cabb;
 }
 
 .projetos-pessoais .projeto-2 {
-    background-color: blueviolet;
+    background-color: #d308c9;
     border-radius: 10px;
-    border: 2px solid #b8bbc5;
+    border: 2px solid #e72121;
+    opacity: 0.8;
+    
 }
 
 .projetos-pessoais .projeto-3 {
-    background-color: #1d5efe;
+    background-color: #d308c9;
     border-radius: 10px;
-    border: 2px solid #b8bbc5;
+    border: 2px solid #f1a516;
+    opacity: 0.7;
 }
 
 .projetos-pessoais .projeto-4 {
-    background-color: #b8bb;
+    background-color: #d308c9;
     border-radius: 10px;
     border: 2px solid #b8bbc5;  
+    opacity: 0.6;
 }
 
 .projetos-pessoais li a:hover {
